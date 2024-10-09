@@ -6,9 +6,5 @@ Vin Dela Pena
 Marvin Godofredo Trinidad II
 Justine Charles Magpoc
 Kriszielle Princess M. Estangco
-<<<<<<< HEAD
 Reyven Oruga
-=======
 Ma. Helaena Kezra Malabanan
->>>>>>> 50bab58263d8c71492b82c8c62298119be5838e7
-Reyven Oruga
